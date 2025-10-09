@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&display=swap');
+
 body{
     background-color: black;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Coral Pixels", serif;
 }
 
 .img01{
