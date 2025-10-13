@@ -27,5 +27,5 @@ main{
     display: none;
 }
 .passo.ativo{
-    display: black;
+    display: block;
 }
