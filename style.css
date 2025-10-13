@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     font-family: "Coral Pixels", serif;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .img01{
@@ -15,7 +15,7 @@ body{
 }
 
 button{
-    background-color: purple;
+    background-color: white;
     color: black;
     padding: 25px;;
 }
